@@ -16,13 +16,10 @@ MoodVerse AI is a mood-based conversational chatbot powered by Mistral AI, LangC
 
 ## 📸 Screenshots
 
-### Home Interface
 
 ![Home Interface](ss1.png)
 
-### Chat Conversation
 
-![Chat Conversation](ss2.png)
 
 ---
 
